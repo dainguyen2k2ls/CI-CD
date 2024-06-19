@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Shop &#8211; web trang sức</title>
+	<atom:link href="https://dainguyen2k2ls.github.io/CI-CD/shop/feed/" rel="self" type="application/rss+xml" />
+	<link>https://dainguyen2k2ls.github.io/CI-CD</link>
+	<description></description>
+	<lastBuildDate>Wed, 19 Jun 2024 12:47:28 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
+	<item>
+		<title>nhẫn vàng</title>
+		<link>https://dainguyen2k2ls.github.io/CI-CD/product/nhan-vang/</link>
+					<comments>https://dainguyen2k2ls.github.io/CI-CD/product/nhan-vang/#respond</comments>
+		
+		<dc:creator><![CDATA[daihandsome]]></dc:creator>
+		<pubDate>Wed, 19 Jun 2024 12:47:27 +0000</pubDate>
+				<guid isPermaLink="false">https://dainguyen2k2ls.github.io/CI-CD/?post_type=product#038;p=59</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<p><img fetchpriority="high" decoding="async" class="alignnone size-full wp-image-60" src="https://dainguyen2k2ls.github.io/CI-CD/wp-content/uploads/2024/06/61.jpg" alt="" width="344" height="234" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://dainguyen2k2ls.github.io/CI-CD/product/nhan-vang/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">59</post-id>	</item>
+	</channel>
+</rss>
